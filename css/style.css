@@ -1,0 +1,129 @@
+  body{
+width: 100%;
+background-color: black;
+  }
+  .navegador{
+    text-align: center;
+    font: Medium 50px/59px Raleway;
+    letter-spacing: 0;
+    color: #FFFFFF;
+    opacity: 1;
+    background-color: black;
+    width: 1280px;
+    height: 73px;
+  }
+  .imagen1{
+  width: 1280px;
+  height: 727px;
+  margin: 0 auto;
+  }
+
+  p{
+    font: Light 16px/19px Raleway;
+  }
+
+  .Container1{
+  width: 100%;
+  height: 348px;
+  background: #000000;
+  padding-top: 45px;
+  padding-left: 150px;
+  margin: 0 auto;
+  }
+
+  .ImagenIguanaEnContainer{
+  width: 505px;
+  height: 237px;
+  display: inline-block;
+  padding-left: 211px;
+  }
+  .Parrafo1Section{
+  width: 350px;
+  height: 237px;
+  text-align: left;
+  color: #FFFFFF;
+  display: inline-block;
+  padding-top: 0px;
+  font-family: Raleway;
+  font-weight: Light;
+  }
+  .container2{
+  background: #1e1a13;
+  width: 100%;
+  height: 348px;
+
+  }
+  .caracteristicas{
+    color: white;
+    font: Medium 40px/47px Raleway;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 40px;
+  }
+  .primeraDiv{
+    display: inline-block;
+    color: white;
+    fill:white;
+    text-align: center;
+    padding-left: 301px;
+    font: Light 25px/30px Raleway;
+
+  }
+  .segundaDiv{
+    display: inline-block;
+    color: white;
+    fill:white;
+    text-align: center;
+    padding-left: 250px;
+  }
+  .terceraDiv{
+    display: inline-block;
+    color: white;
+    fill:white;
+    text-align: center;
+    padding-left: 250px;
+  }
+  .imagenDiv1{
+    display: inline-block;
+    padding-left: 150px;
+    padding-top: 73px;
+  }
+  .imagenDiv2{
+    display: inline-block;
+    padding-left: 16px;
+    padding-top: 73px;
+  }
+  .imagenDiv3{
+    display: inline-block;
+    padding-left: 16px;
+    padding-top: 73px;
+  }
+  .container3{
+  background: black;
+  width: 100%;
+  height: 348px;
+
+  }
+  footer{
+      background: #1e1a13;
+      text-align: center;
+      color:white;
+      font:Light 20px/24px Raleway;
+      width: 100%;
+      height: 102px;
+
+  }
+  .textoFooter{
+    padding-top: 39px;
+  }
+  .cambioColor, i{
+    color:white;
+  }
+  .textosImagenes{
+    font-family:  Raleway;
+    font-weight: lighter;
+  }
+  .tituloPrincipal{
+    font-family:  Raleway;
+    font-weight: Medium;
+  }
